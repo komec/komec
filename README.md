@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=komec" alt="komec" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/ahukomecmutlu" target="blank"><img src="https://img.shields.io/twitter/follow/ahukomecmutlu?logo=twitter&style=for-the-badge" alt="ahukomecmutlu" /></a> </p>
+
 - 🔭 I’m currently working on **121E280, DARLA and CEDAS projects.**
 
 - 🌱 I’m currently learning **data science**
@@ -27,4 +29,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komec&show_icons=true&locale=en&layout=compact" alt="komec" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=komec&show_icons=true&locale=en" alt="komec" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komec&" alt="komec" /></p>
 
